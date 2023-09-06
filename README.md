@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salorana Harimamy</h1>
-<h3 align="center">A young Malagasy woman passionate about the world of technology, whether in the network or in development.</h3>
+<h3 align="center">A young Malagasy woman passionate about the world of technology, whether in the network administration and development.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
